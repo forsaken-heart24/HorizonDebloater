@@ -1,15 +1,15 @@
-# Horizon - Ninite
+# Horizon x Xiaomi
  
 ![flosspaper-banner](https://github.com/forsaken-heart24/HorizonDebloater/blob/main/banner.jpg?raw=true)
 
-**Debloat your xiaomi device within a click.**
+**Debloat your xiaomi™ device within a click.**
 
-⭐️ An open-source tool which tries to give you hassle-free experience on your xiaomi device.
+⭐️ An open-source tool which tries to give you hassle-free experience on your xiaomi™ device.
 
 Still in development, will see you soon!
 
 # How to use this tool?
-* Download [Horizon.exe](https://t.me/equinoxfromlunaandetclore) and just run it, it will do the rest.
+* Download [Horizon.exe](https://github.com/forsaken-heart24/HorizonDebloater/releases/download/release-keys/horizon.exe) and just run it, it will do the rest.
 
 * requires windows 7 with 64bit os atleast.
 
