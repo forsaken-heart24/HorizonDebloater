@@ -1,4 +1,4 @@
-# Horizon Debloater
+# Horizon - Ninite
  
 ![flosspaper-banner](https://github.com/forsaken-heart24/HorizonDebloater/blob/main/banner.jpg?raw=true)
 
