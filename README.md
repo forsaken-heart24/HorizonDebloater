@@ -1,19 +1,20 @@
 # Horizon x Xiaomi
- 
-![flosspaper-banner](https://github.com/forsaken-heart24/HorizonDebloater/blob/main/banner.jpg?raw=true)
 
-**Debloat your Xiaomi™ device within a click.**
+![horizon-banner](https://github.com/forsaken-heart24/HorizonDebloater/blob/main/banner.jpg?raw=true)
 
-⭐️ An open-source tool which tries to give you hassle-free experience on your Xiaomi™ device.
+**Debloat your Xiaomi™ device with a single click.**
 
-Still in development, will see you soon!
+⭐️ An open-source tool designed to provide a hassle-free experience on your Xiaomi™ device.
 
-# How to use this tool?
-* The Xiaomi™ mitu or mi bunny is not associated with this program in anyway and it's owned by Xiaomi Corpuration™
+Still in development—stay tuned for updates!
 
-* Head down to the releases tab and choose your version of this software and just run it, it will do the rest.
+## How to Use This Tool
+* The Xiaomi™ mitu or mi bunny is not associated with this program in any way. They are owned by Xiaomi Corporation™
 
-* requires windows 7 with 64bit os atleast.
+* Head over to the **Releases** tab, choose the version you want, and just run it; it will handle the rest.
 
-## ❌ Wanna improve it, or want to give any ideas? Join our support chat for more!
+* Requires Windows 7 or later with a 64-bit OS.
+
+## ❌ Want to Contribute or Share Ideas?
+Join our support chat for more!
 * [Telegram Chat](https://t.me/equinoxfromlunaandetclore)
