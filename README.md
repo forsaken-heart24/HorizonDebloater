@@ -11,7 +11,7 @@ Still in development, will see you soon!
 # How to use this tool?
 * The Xiaomi™ mitu or mi bunny is not associated with this program in anyway and it's owned by Xiaomi Corpuration™
 
-* Download [Horizon.exe](https://github.com/forsaken-heart24/HorizonDebloater/releases/download/release-keys/horizon.exe) and just run it, it will do the rest.
+* Head down to the releases tab and choose your version of this software and just run it, it will do the rest.
 
 * requires windows 7 with 64bit os atleast.
 
