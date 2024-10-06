@@ -11,5 +11,7 @@ Still in development, will see you soon!
 # How to use this tool?
 * Download [Horizon.exe](https://t.me/equinoxfromlunaandetclore) and just run it, it will do the rest.
 
+* requires windows 7 with 64bit os atleast.
+
 ## ❌ Wanna improve it, or want to give any ideas? Join our support chat for more!
 * [Telegram Chat](https://t.me/equinoxfromlunaandetclore)
