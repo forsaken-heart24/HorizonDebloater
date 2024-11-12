@@ -9,11 +9,12 @@
 Still in development—stay tuned for updates!
 
 ## How to Use This Tool
-* The Xiaomi™ mitu or mi bunny is not associated with this program in any way. They are owned by Xiaomi Corporation™
-
-* Head over to the **Releases** tab, choose the version you want, and just run it; it will handle the rest.
-
 * Requires Windows 7 or later with a 64-bit OS.
+
+* A device debloat list (without adb shell pm uninstall and etc etc commands)
+
+## Small Disclaimer
+* The Xiaomi™ mitu or mi bunny is not associated with this program in any way. They are owned by Xiaomi Corporation™
 
 ## ❌ Want to Contribute or Share Ideas?
 Join our support chat for more!
