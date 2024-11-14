@@ -1,6 +1,6 @@
 # Horizon x Xiaomi
 
-![horizon-banner](https://github.com/forsaken-heart24/HorizonDebloater/blob/main/banner.jpg?raw=true)
+![horizon-banner](https://github.com/forsaken-heart24/i_dont_want_to_be_an_weirdo/blob/main/banner_images/banner.jpg?raw=true)
 
 **Debloat your Xiaomi™ device with a single click.**
 
